@@ -1,0 +1,9 @@
+attachmentprocessor/
+bai_parse/
+caponelockbox/
+dbqbsync/
+pnclockbox/
+pygmail/
+pypostgres/
+qbpythonapi/
+bankprocessing/
